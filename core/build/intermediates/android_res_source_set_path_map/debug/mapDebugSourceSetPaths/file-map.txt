@@ -1,0 +1,8 @@
+com.filbabic.modularizationapp.core-pngs-0 /Users/filipbabic/AndroidStudioProjects/ModularizationApp/core/build/generated/res/pngs/debug
+com.filbabic.modularizationapp.core-updated_navigation_xml-1 /Users/filipbabic/AndroidStudioProjects/ModularizationApp/core/build/generated/updated_navigation_xml/debug
+com.filbabic.modularizationapp.core-mergeDebugResources-2 /Users/filipbabic/AndroidStudioProjects/ModularizationApp/core/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.filbabic.modularizationapp.core-mergeDebugResources-3 /Users/filipbabic/AndroidStudioProjects/ModularizationApp/core/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.filbabic.modularizationapp.core-debug-4 /Users/filipbabic/AndroidStudioProjects/ModularizationApp/core/build/intermediates/merged_res/debug/mergeDebugResources
+com.filbabic.modularizationapp.core-debug-5 /Users/filipbabic/AndroidStudioProjects/ModularizationApp/core/build/intermediates/packaged_res/debug/packageDebugResources
+com.filbabic.modularizationapp.core-debug-6 /Users/filipbabic/AndroidStudioProjects/ModularizationApp/core/src/debug/res
+com.filbabic.modularizationapp.core-main-7 /Users/filipbabic/AndroidStudioProjects/ModularizationApp/core/src/main/res
